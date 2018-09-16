@@ -1,0 +1,26 @@
+{
+  "name": "jquery-simply-countable",
+  "version": "0.5.1",
+  "homepage": "https://github.com/aaronrussell/jquery-simply-countable",
+  "authors": [
+    "Aaron Russell"
+  ],
+  "description": "jQuery plugin that provides a character counter for any text input or textarea.",
+  "main": "jquery.simplyCountable.js",
+  "keywords": [
+    "jQuery",
+    "countable",
+    "jquery-simply-countable"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+}

@@ -1,0 +1,6 @@
+customer_agent_id,account_type_id,customer_account_no,customer_first_name,customer_middle_name,customer_last_name,customer_gender,customer_contact_no,customer_account_opening_date,customer_daily_deposit,customer_address,customer_area,customer_account_status_id,customer_account_reopening_date,customer_loan_taken,customer_total_deposit_amount,customer_reg_no,customer_amount,customer_account_maturity_date,customer_interest_rate,customer_tenure,customer_maturity_value
+2,1,UF-002,Rahul,S,Yadav,1,9028322878,2016-11-10,100,ss,sr,1,NULL,0,0,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-003,Sameer,K,Thamane,1,9028322878,2016-11-11,100,dd,sr,1,NULL,0,0,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-004,Meenal,E,Sate,2,9028322878,2016-11-12,100,ss,sr,1,NULL,0,0,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-005,Harish,T,Rao,1,9028322878,2016-11-13,100,ss,sr,1,NULL,0,0,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-006,Manish,R,Pandey,1,9028322878,2016-11-14,100,ss,sr,1,NULL,0,0,NULL,NULL,NULL,NULL,NULL,NULL

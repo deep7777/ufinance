@@ -1,0 +1,211 @@
+customer_agent_id,account_type_id,customer_account_no,customer_first_name,customer_middle_name,customer_last_name,customer_gender,customer_contact_no,customer_account_opening_date,customer_daily_deposit,customer_address,customer_area,customer_account_status_id,customer_account_reopening_date,customer_loan_taken,customer_total_deposit_amount,customer_reg_no,customer_amount,customer_account_maturity_date,customer_interest_rate,customer_tenure,customer_maturity_value
+2,1,UF-101,Sushil ,,Singh,1,9922566550,2015-05-09,100,Hargudewasti Jogmaya Super Market ,Hargudewasti,1,NULL,0,0,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-102,Irshad ,,Sayyed,1,9657172945,2015-11-27,100,Tharmex Chowk,Tharmex Chowk,1,NULL,0,0,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-103,Satish ,,Singh,1,8055110804,2015-07-18,100,Shahunagar ,Shahunagar ,1,NULL,0,0,NULL,NULL,NULL,NULL,NULL,NULL
+1,1,UF-104,Afjal ,shaikh ,,1,90000000000,2016-08-13,100,Bijli Nagar,Bijli Nagar,1,NULL,0,0,NULL,NULL,NULL,NULL,NULL,NULL
+7,1,UF-105,Saniya ,,Shaikh,2,8180007167,2015-08-13,100,Barnechal NR Padam G Paper mill Thergaon Pune 33,Thergaon,1,NULL,0,0,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-106,Digambar ,,Kishanrao,1,9595751190,2015-09-16,100,Morewasti Chikhali  Anganwadi road 412114,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+7,1,UF-107,Indra ,Prakash ,Shrivastav,1,9156776018,2015-09-19,100,sanechal NR Padam G Paper Mill Thergon Pune 34,Thergaon,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-108,Rakesh ,,Rajbhar,1,7276924091,2015-10-06,100,Shahunagar,Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-109,Ramesh ,,Singh,1,8855937962,2015-10-07,100,Hargude wasti,Hargude wasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+7,1,UF-110,Arun ,kumar ,shreevastav,1,8484816345,2016-08-29,100,Thergaon Sadashiv colony Sane chal Pune 34,Thergaon,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-111,Suresh ,,Choudhari,1,9762765472,2015-11-09,100,Hargudewasti Jogmaya Super Market ,Hargude wasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-112,Narendra ,,Bangi,1,9823083604,2015-11-15,100,More Wasti Chikhali Near Anganwadi school Dr. narendra,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-113,Prakash ,Sadabriksh ,Rajbhar,1,8087505085,2015-11-17,100,More Wasti Chikhali Near Anganwadi school Morya housing society,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-114,Dushrath ,,Shinde,1,90000000000,2015-11-19,100,RamNagar (Kirane Ki Dukan),Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-115,Lorik ,,Rajbhar,1,9823949568,2015-11-22,100,More Wasti Chikhali Near Anganwadi school Morya housing society,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-116,Surendra ,,Paswan,1,7840919911,2015-12-04,100,KSB Chowk ( Seet Cover Wala),KSB Chowk,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-117,Mohamad ,.R. ,Khureshi,1,8888489858,2015-12-23,100,Akurdi,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-118,Rajesh ,,Choudhari,1,9923044898,2016-01-02,100,Mohan Nagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-119,Kallu ,,Rajbhar,1,8149164835,2016-01-06,100,Shahu Nagar ( Froot stal),Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-120,NandLal ,. ,Keshri,1,9561543386,2015-08-08,100,Shahunagar,Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-121,Akshay ,Lal ,Pal,1,9156633518,2016-01-15,100,Kantaram Pawar Chikhali Opp (Kohinoor Photo) Pune,Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+7,1,UF-122,Sehzad ,,Ansari,1,9175982880,2016-01-20,100,Moreswar Colony Nr Padam g Paper mill Bihaend New star Bakery,Thergaon,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-123,Shankar ,Anna ,Gunjal,1,9822347614,2016-01-20,100,A/P Nr Sonu flor mill Ramnagar chinchawad Pune 19,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+1,1,UF-124,Alam ,geer ,alam,1,9145005886,2016-01-22,100,Bijli Nagar,Bijli Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-125,Anita ,Jaisingh ,Patil,2,8888925775,2016-01-23,100,Shahunagar,Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-126,Suhas ,Chandrakant ,Jadhav,1,8888048027,2016-01-23,100,Shaunagar (Shani Mandir),Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-127,Babu ,Ashok ,Biradar,1,8421152040,2016-01-23,100,Shahunagar ( Bhelwala ),Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-128,Suban ,,Shaikh,1,8421572253,2016-02-02,100,Ramnagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-129,Irfan ,,Shaikh,1,90000000000,2016-02-02,100,Ramnagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-130,Tatya ,Sanpat ,Mahapure,1,9822295003,2016-02-04,100,Morewasti,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-131,Akshay ,Lal ,Pal 2,1,9156633518,2016-02-07,100,Jadhavwadi (Counter ),Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+5,1,UF-132,Thanaram ,Premaji ,Choudhari,1,9960064631,2016-02-07,100,AT Post Punawale Tal Mulshi Dist Pune,Mulshi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-133,Pankaj ,Harishachand ,Rajbhar,1,9021434082,2016-02-12,100,More Wasti Chikhali Near Anganwadi school Morya housing society,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+5,1,UF-134,Vikas ,,Hembade,1,9850450117,2016-02-14,100,AP Post Jhhambe Tal Mulshi Dist Pune,Mulshi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+5,1,UF-135,Shambhaji ,,Bansode,1,9822918914,2016-02-14,100,AP Post Gahunji Tal mawal Dist Pune,Mulshi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-136,jagdevi ,,patre,1,9503881075,2016-02-14,100,Ramnagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-137,Irshad ,,shekh,1,7385227164,2016-02-15,100,VidyaNagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+5,1,UF-138,Pappu ,Basir ,Saikh,1,8856810942,2016-02-17,100,AT Post Punawale Tal Mulshi Dist Pune,Mulshi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-139,Shangeeta ,,Shinde,2,9975603153,2016-02-17,100,AT Post Punawale Tal Mulshi Dist Pune,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+5,1,UF-140,Thanaram ,2 ,Rajendra,1,9960064631,2016-02-17,100,Mulshi,Mulshi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+5,1,UF-141,Laxman ,,Sashane,1,9028843328,2016-02-18,100,AT Post Punawale Tal Mulshi Dist Pune,Mulshi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+5,1,UF-142,Madhukar ,,godke,1,9921173911,2016-02-21,100,AT Post Punawale Tal Mulshi Dist Pune,Mulshi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-143,Bachala ,,kumar,1,8856972379,2016-02-22,100,Ramnagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-144,Ramesh ,,singh,1,90000000000,2016-02-27,100,KSB Road,Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-145,Chand ,,Mohamad,1,7385648788,2016-03-01,100,Ramnagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-146,Jasmin ,Shaikh ,,2,7385227164,2016-03-02,100,VidyaNagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-147,Ajay ,Umashankar ,Thakur,1,9909147724,2016-03-03,100,Akurdi Chowk Near Godavari School,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+9,1,UF-148,Khalil ,Malang ,Shaha,1,90000000000,2016-03-03,100,Akurdi Chowk Near Godavari School,Kasarwadi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-149,Vinayak ,,Dubey,1,7722003860,2016-03-07,100,"More Wasti Chikhali ( Cash Callection- Plot No 122/2,Shop No.10,GGMC Plazza, Near RTO Office, Purnanagar Chinchawad, Pune -19",Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+9,1,UF-150,Neelesh ,Namdev ,Loyare,1,90000000000,2016-03-07,100,"More Wasti Chikhali ( Cash Callection- Plot No 122/2,Shop No.10,GGMC Plazza, Near RTO Office, Purnanagar Chinchawad, Pune -19",Kasarwadi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+9,1,UF-151,Kamal ,Ekball ,Shah,1,8421451893,2016-03-07,100,"More Wasti Chikhali ( Cash Callection- Plot No 122/2,Shop No.10,GGMC Plazza, Near RTO Office, Purnanagar Chinchawad, Pune -19",Kasarwadi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+5,1,UF-152,Akbar ,,Shaik,1,7058703802,2016-03-11,100,Post Punawale Tal Mulshi Distric Pune ,Mulshi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+9,1,UF-153,Natharam ,,Choudhari,1,8552994343,2016-03-11,100,Post Punawale Tal Mulshi Distric Pune ,Kasarwadi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+9,1,UF-154,Vilash ,Jagannath ,Virajdar,1,90000000000,2016-03-11,100,Pimpri Dilux chuwk,Kasarwadi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+9,1,UF-155,Charn ,jeetsingh ,Unzan,1,9823209808,2016-03-12,100,Primpri Dilux Chowk,Kasarwadi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+9,1,UF-156,Jeetendra ,Palsingh ,Unzan,1,9823209808,2016-03-12,100,Pankaj Sellection Thergaon,Kasarwadi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-157,Viraj ,Kiran ,Lagas,1,9975603153,2016-03-14,100,Dattanagar Pune,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-158,Avinash ,,Shinde,1,9975603153,2016-03-14,100,Dattanagar Pune,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-159,Mirza ,,Anuwar,1,8626097822,2016-03-19,100,Ramnagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+9,1,UF-160,Ravindra ,Murlidhar ,Musale,1,90000000000,2016-03-19,100,Ramnagar,Kasarwadi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+9,1,UF-161,Mohamad ,,Shaikh,1,9637821646,2016-03-19,100,Hergude wasti,Kasarwadi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-162,Mohammad ,,Saad,1,9145316503,2016-03-21,100,Hargude wasti,Hargude wasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+9,1,UF-163,Mahadev ,Vamanrao ,Jagtap,1,8975110019,2016-03-25,100,Shahunagar Pune,Kasarwadi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+9,1,UF-164,#VALUE!,,#VALUE!,1,7058668326,2016-03-27,100,Akurdi Chowk,Kasarwadi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+9,1,UF-165,Tasleem ,,Dafedan,1,9921595785,2016-03-27,100,Akurdi Chowk,Kasarwadi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-166,Rambabu ,,Kuvar,1,8421591105,2016-03-29,100,Shahunagar Pune,Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-167,Abhijeet ,Jaysing ,Patil,1,8888927557,2016-03-30,100,Shahunagar Pune,Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-168,Rahim ,,Shekh,1,9890462103,2016-03-21,100,Ramnagar Pune,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-169,Sher ,Bahadur ,Pal,1,9712840621,2016-03-31,100,Jadhavwadi Pune,Jadhavwadi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-170,Prem ,Chand ,Pal,1,9156103852,2016-03-31,100,Shahunagar Spine Road,Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+5,1,UF-171,Muskan ,,shaik,2,8896810944,2016-04-01,100,AT-post-Punavale Dist-Pune,Mulshi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+5,1,UF-172,Altaf ,,Shaik,1,8896810944,2016-04-01,100,AT-post-Punavale Dist-Pune,Mulshi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+5,1,UF-173,Mohan ,Das ,,1,90000000000,2016-04-03,100,Mulshi,Mulshi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-174,Mangesh ,,Pare,1,7058443744,2016-04-12,100,NR Shehgal Show Room Chinchawad Pune .,KSB Chowk,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-175,Shivshay ,,Jaiswal,1,7098040518,2016-04-17,100,Shahunagar Pune,Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-176,Ashok ,,Pawar,1,90000000000,2016-04-26,100,Raamnagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-177,David ,,Yaykwad,1,7350268192,2016-05-06,100,Ramnagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-178,Mahmood ,,Patel,1,9823296789,2016-05-07,100,Shahunagar,Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-179,Nandgopal ,,Rajbhar,1,7722007732,2016-05-10,100,Morewasti Chikhali,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-180,Ganesh ,Tulshiraam ,Shingare,1,8975227146,2016-05-10,100,Ramnagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-181,Navnath ,,Kalasakar,1,9139231899,2016-05-10,100,Ramnagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-182,Rajendra ,,Keshari,1,7841018696,2016-05-10,100,Shaunagar,Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-183,Vijay ,Angad ,Tarte,1,9595616165,2016-05-14,100,Raamnagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+8,1,UF-184,Sahabuddin ,,Khan,1,90000000000,2016-05-15,100,Link Road,Thergaon,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-185,Ashok ,,Yadav,1,9762089330,2016-05-21,100,Metrewasti shreeraam society,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-186,Shashikant ,,Chouhan,1,8928321133,2016-05-21,100,"Mahatma Phulenagar NR Mahanagar Plice Chowki , Pune",Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-187,Ramnivas ,,Jaiswal,1,9881977159,2016-05-23,100,KuddalWadi  Plat No 904 Room No 4464 Kuddalwadi Ckokhali Pune,Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-188,Anil ,,Kumar,1,8879195384,2016-05-19,100,Hargudewasti  Sr No.912.Pune.,Hargude wasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-189,Shilpa ,Suresh ,Bhosale,2,7219113964,2016-05-25,100,Ramnagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-190,Nibbu ,Buddhu ,Rajbhar,1,8796342831,2016-05-29,100,Morewasti chikhali Astvinayak Road,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-191,Raju ,Madhukar ,Tabade,1,9595440364,2016-06-01,100,Shahunagar Pune,Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+5,1,UF-192,Avinash ,,Gaykwad,1,8554045141,2016-06-05,100,At-post Punawale Dist-Mushi,Mulshi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-193,Banarashi ,,Ansari,1,8975926427,2016-06-07,100,Thermax NR Force Moter Pune,Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-194,Sidhappa ,Namdev ,Gaykwad,1,7776018665,2016-06-07,100,Phulenagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-195,Ramesh ,,Rajbhar,1,8408837653,2016-06-07,100,Shahunagar,Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-196,Bharat ,,Thorave,1,9028875027,2016-06-16,100,Morewasti chikhali Austvinayak Chowk Tuljabhavani Mobile Shopee,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-197,Nagesh ,K ,Kashyap,1,9371785033,2016-06-17,100,Renuka Niwas NR Sai Mandir Sane Chouk Morewasti Chikhali 19,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-198,Vijay ,N ,Goutam,1,9595459024,2016-06-20,100,Shahu Nagar (Purnanagar),Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-199,Aasaram ,Bhagujee ,Navgire,1,7276338387,2016-06-18,100,Shani Mandir Opp Maha Vitram Pune 19,Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-200,Arun ,,Mali,1,8485075961,2016-06-25,100,Morewasti Austvinayak Chowk Vittal Ropmali Society,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-201,Appu ,Dilip ,Choudhary,1,7249132904,2016-06-27,100,Nwale Wasti chikhali Road,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-202,Dinesh ,,Ready,1,9860442000,2016-07-01,100,Segal Showroom Chinchawad,KSB Chowk,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-203,Anthoni ,,Das,1,9130962124,2016-07-01,100,Hero Segal Showroom Chinchawad,KSB Chowk,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-204,Ganesh ,Nandu ,Pawar,1,9922010867,2016-07-04,100,Segal Showroom Chinchawad,KSB Chowk,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-205,Sundar ,Bhimashankar ,Gayakwad,1,90000000000,2016-07-04,100,Phunenagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-206,Swaminath ,,Pande,1,7304023628,2016-07-04,100,G No.1401 Datta Mandir Sangam Society Near Morewasti Chikhali,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-207,Rajesh ,K ,Gupta,1,9762846320,2016-07-04,100,Sai Society Sane Chouk  Opp,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-208,Deepak ,,Singh,1,9422644320,2016-07-02,100,Datta Society More Wasti Pune -19,Hargude wasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-209,Shyam ,Bihari ,sing,1,7040846307,2016-07-05,100,Shahu Nagar,shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-210,Ramesh,,Rajbhar ,1,90000000000,2016-07-02,100,Shahu nagar Pune,shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+5,1,UF-211,Nitin ,,Das,1,9623831437,2016-07-11,100,AT Post  Punavale Pune Mulshi Dist Pune,Mulshi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-212,Jaydeep ,Subhash ,Bade,1,8888075979,2016-07-12,100,Hero sagal chinchawad Pune ,KSB Chowk,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-213,Surve ,Prakash ,,1,9168758399,2016-07-12,100,Rupenagar  Pune,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-214,Mayur ,arun ,Gayakwad,1,7040063839,2016-07-13,100,Anand Nagar Chinchawad,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-215,Chandan ,K. ,Singh,1,8796078868,2016-07-16,100,Newalewasti,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-216,Arman ,Shaikh ,,1,8956530697,2016-07-20,100,Phulenagaqr Gharkul,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-217,Datta ,,Sonavane,1,8657601655,2016-07-21,100,Jadhavwadi,Jadhavwadi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-218,Sunil ,,Jadhav,1,8605131189,2016-07-26,100,Ramnagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-219,Madina ,Rasid ,,2,9850975352,2016-07-31,100,Raamnagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+1,1,UF-220,Ugan ,,Mukhiya,1,9975776200,2016-08-01,100,Akurdi Chowk,Bijli Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-221,Mohammad ,,Husayn,1,800736788,2016-08-02,100,Kohunoor Wajan Kata Punawale wasti Chikhali Pune 62,Hargude wasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-222,Amin ,,Shekh,1,8857952425,2016-08-04,100,Raamnagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-223,Ranjeet ,,Kumar,1,9503196395,2016-08-06,100,Hargude wasti,Hargude wasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-224,M ,Jamsed ,Mansuri,1,9595616341,2016-08-06,100,Kudalwadi,ShahuNagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-225,Smita ,Mahesh ,Deshpanday,2,9689376160,2016-08-06,100,Hargudewasti newalewasti Chal R No 03 Pune 19,ShahuNagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-226,Rakesh ,Kumar ,Saroj,1,7264883984,2016-08-07,100,Nevalewasti,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-227,Salim ,Tahir ,Shaikh,1,9921520394,2016-08-07,100,Nandanvan Society More wasti,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-228,Rajesh ,,Shaw,1,8888980044,2016-08-06,100,Hargudewasti ( Ghar Cool ),Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-229,Madhuri ,Cebter ,,1,8605131356,2016-08-08,100,Raamnagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-230,Sabiha ,S ,Sayyed,2,8483964157,2016-08-10,100,Rupeenagar,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-231,Ganesh ,Bhagvat ,Nimbyat,1,9890303459,2016-08-13,100,Sidharth Gardan Housing society  Kranti Chowki Chowk ,Jadhavwadi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-232,Faiz ,Alam ,,1,7040042287,2016-08-17,100,Kuddalwadi,Hargude wasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-233,Sayfuddin ,,sekh,1,8888480543,2016-08-20,100,Shahunagar,Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+8,1,UF-234,Balashaheb ,,Arjun,1,9028438244,2016-08-23,100,Skylik road street telar ,Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+8,1,UF-235,Vikash ,Jadhav ,Bahsate,1,9850100266,2016-08-24,100,Trimurti  Puja bhandar Pimpri  shagun chowk,Thergaon,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+8,1,UF-236,Ajay ,Nivruti ,Donkar,1,90000000000,2016-08-24,100,Shagun chowk Nr Railway Station,Thergaon,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-237,Mohan ,Raghunath ,More,1,9527332896,2016-08-25,100,"Mahatma Phulenagar Jaybhavani office Shejari Mohan nagar Chinchawad , Pune 19",Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-238,Abhijeet ,,Patil,1,7774840033,2016-08-25,100,Sec-No- 29 Flat No B-003Nilee Paradiesh Ravat Pune ,Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+1,1,UF-239,Nilesh ,Namdev ,Choudhary,1,9665517813,2016-08-27,100,Studio N Hanuman sweet Javal Bijali Nagar Chinchawad Pune,Bijli Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-240,Santosh ,,Goutam,1,7040943699,2016-08-29,100,Shahunagar Pune,Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-241,Rekha ,,Hardas,2,90000000000,2016-08-30,100,ShahuNagar,ShahuNagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+7,1,UF-242,Pravin ,,Gavali,1,9730281351,2016-08-31,100,Chinchwad Valhekarwadi,Thergaon,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+7,1,UF-243,Deepak ,pandurang ,More,1,9767927779,2016-09-01,100,C-405 Sonigara Vihar adarsh Nagar  kalewadi Pune 17,Thergaon,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-244,Ganesh ,Bhola ,Choudhary,1,9049372608,2016-09-01,100,Laxmi Bhali Center Rupeenagar,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-245,Sheshmani ,Gulabchand ,Sharma,1,8856877633,2016-09-01,100,Morewasti chikhali Anganwadi Road NR Himalay Bekari,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-246,Sufal ,A ,Shaikh,1,8149798989,2016-09-01,100,Newale wasti chinchawad Akurdi Road,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-247,Ashaik ,,Shekh,1,8446903532,2016-09-02,100,Chinchwad Police Laine,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+1,1,UF-248,Jamal ,Daula ,saah,1,9888572138,2016-09-05,100,Bijli Nagar,Bijli Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-249,Vikash ,,Nagar,1,9130121269,2016-09-06,100,24/7 Kawalewadi Lane New white house Koregown park,Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-250,Vikash ,,Mahale,1,9860270279,2016-09-08,100,Shiv shai Purnanagar Pune 19,Purnanagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-251,M ,,Rashid,1,9975303842,2016-09-09,100,Uniq Tayer Pawarwasti Kudalwadi Chikhali NR Kohinoor Wajan Kata Pune 19,Hargude wasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-252,Madhuri ,,Davadakar,2,90000000000,2016-09-10,100,Raamnagar,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-253,Surendra ,Jagmohan ,Jaiswar,1,9657808973,2016-09-10,100,Nawale Wasti chikhali Road,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-254,Radheshyam ,,Kumar,1,9960188723,2016-09-10,100,Morewasti Chikhali,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-255,Sindu ,Sunil ,Karke,2,9890402795,2016-09-10,100,Shahunagar Shani Mandir Pune 19,shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+8,1,UF-256,Nijam ,,Sekh,1,9175627860,2016-09-17,100,nijam hair Salone NR Thergaon,Thergaon,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+7,1,UF-257,Shravani ,,Mukopadhyay,1,9850972585,2016-09-19,100,Pemlokpark Dhanuka Apartment Dalavinagar Chinchawad Pune,Thergaon,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-258,Jamaluddin ,Khan ,Raine,1,9766665318,2016-09-20,100,A/P Sainath Nagar Nigadi Pune,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-259,Rakesh ,,Rajbhar ,1,7276924091,2016-09-23,100,Shahunagar Pune,shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+7,1,UF-260,Raviraj ,,Gayakwad,1,9767687019,2016-09-23,100,Thergaon Panstal,Thergaon,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-261,Ravindra ,,Wagh,1,9139248318,2016-09-25,100,Tata Auto Cap Nr,KSB Chowk,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-262,Janardhan ,,Kakade,1,8149828803,2016-09-26,100,Swastik Kampany  Kalbhor Nagar Pune 19,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-263,Sunita ,Iswar ,Bharti,2,9049663926,2016-09-27,100,Ramnagar Pune,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+8,1,UF-264,Rupesh ,Kisan ,Chavan,1,9595997271,2016-09-28,100,Near Dattanagar,Thergaon,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-265,Dhrmendra ,,Paswan,1,90000000000,2016-09-29,100,Kudalwadi Chikhali Pune -19,Hargude wasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-266,Ramdaras ,,Rajbhar,1,9833672551,2016-10-01,100,"Morewasti Chikhali, Sai SOC.",Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+1,1,UF-267,Gurunath ,Kalyani ,Anure,1,8484806031,2016-10-01,100,Bijalinagar,Bijli Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+1,1,UF-268,Ramkrishan ,,Patil,1,9604836812,2016-10-02,100,Chinchwad Bijalinagar,Bijli Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+1,1,UF-269,Ashok ,Nilkanth ,Salunkhe,1,8390941518,2016-10-02,100,Bijli Nagar,Bijli Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-270,Vikash ,Pandurang ,Veer,1,8888541337,2016-10-03,100,Shankar nagar Pune-19,KSB Chowk,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-271,Wasim ,Salim ,Shaikh,1,9881420091,2016-10-04,100,ShahuNagar,ShahuNagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-272,Abhishek ,S. ,wankhede,1,9172732234,2016-10-04,100,House no.18/2 Z402 pradhikaran.,shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+1,1,UF-273,Esaifulsha ,,Shaikh,1,8483933302,2016-10-14,100,Bijli Nagar,Bijli Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-274,Ajay ,Umashankar ,Thakur-2,1,7385697696,2016-10-15,100,Ramnagar Ram Mandir shree Ram ,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-275,Shankar ,N. ,Gupta,1,8600101721,2016-10-19,100,Datta wadi Akurdi,Datta Wadi,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-276,Rameshkumar ,,Yadav,1,9919285980,2016-10-20,100,Sahunagar,shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-277,Mohammad ,,Ahmad,1,8888489858,2016-10-21,100,Akurdi,Ramnagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-278,Anamol ,,Singh,1,7028491252,2016-10-21,100,Sahunagar,shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-279,Sachin ,,Shelke,1,9975964388,2016-10-21,100,"Monzinese Bakery ,Sahunagar,",Shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-280,Sudarshan ,,Gupta,1,90000000000,2016-10-21,100,Sahunagar,shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-281,Sirja ,,Yadav,2,8796532044,2016-10-20,100,Kudalwadi Opposite police station,Hargude wasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-282,Sagar ,,Jaisawal,1,8149374541,2016-10-29,100,"Sagar Harilal Jaiswal Shop No. 2, 4 Block,4/4 Sambhaji Nagar chinchwad Pune-411019",Shambhaji Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-283,Shri ,Ramashish ,Shoni,1,7040118695,2016-10-29,100,Newale Wasti,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-284,Jyoti ,,Sangale,2,9604591233,2016-11-02,100,Hargude wasti Pune-19,Hargude wasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+1,1,UF-285,RahulKumar ,,Pal,1,90000000000,2016-11-03,100,akurdi railway station pune,Bijli Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+1,1,UF-286,Sagar ,,Nagaruni,1,8149582744,2016-11-02,100,Bijli Nagar,Bijli Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+1,1,UF-287,Suyog ,Auto ,Garage,1,7768855574,2016-10-31,100,Bijli Nagar,Bijli Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+1,1,UF-288,Avinash ,,Adsul,1,8390559286,2016-11-05,100,Carnival Hotel Bijli Nagar,Bijli Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+1,1,UF-289,Abdul ,,Razak,1,90000000000,2016-11-07,100,Bijalinagar,Bijli Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+1,1,UF-290,Rajesh ,,Jaiswal,1,7841038088,2016-11-06,100,Bijalinagar,Bijli Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+7,1,UF-291,Amit ,,Shukla,1,885670300,2016-11-07,100,Thergaon Dange Chauk,Thergaon,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-292,Ramsingh ,Sohan ,Singh,1,8888800026,2016-11-07,100,Swapnanagri HSG Soc. Morewasti,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-293,Vikram ,Singh ,Rathore,1,8888800026,2016-11-07,100,Swapnanagri HSG Soc. Morewasti,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+1,1,UF-294,Chetan ,,Jagtap,1,7057832010,2016-11-05,100,Carnival Hotel Bijli Nagar,Bijli Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+1,1,UF-295,Ashish ,Prakash ,Adsul,1,8793999097,2016-11-05,100,Carnival Hotel Bijli Nagar,Bijli Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+1,1,UF-296,Jyoti ,,Bansode,2,7066761825,2016-11-10,100,Fulenagar,Bijli Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-297,Namrul ,,Shaikh,1,7757992385,2016-11-11,100,Newale wasti chikhali,Newale wasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-298,Sandesh ,Ankush ,Jadhav,1,90000000000,2016-11-13,100,SambhajiNagar,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-299,Madhavi ,Suresh ,Dede,2,90000000000,2016-11-13,100,Mohan Nagar,Mohan Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,UF-300,Raut ,Abhimanyu ,Vitthal,1,8007021630,2016-11-09,100,Dattanagar Ramnagar Pune,Dattanagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-301,Sanjay ,Hari ,Haridas,1,90000000000,2016-11-12,100,ShahuNagar,shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-302,Smita ,Sunil ,Bankar,2,90000000000,2016-11-12,100,Shahunagar,shahunagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+1,1,UF-303,Jayprakash ,,Vishwakarma,1,90000000000,2016-11-17,100,Carnival Hotel,Bijli Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+2,1,UF-304,Milind ,Kerba ,Bansode,1,992109662,2016-11-17,100,DattaNagar,DattaNagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-305,Santosh ,,Kumar,1,9451493335,2016-11-20,100,Newale wasti,Newale wasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+1,1,UF-306,Amol ,Appa ,Ghune,1,90000000000,2016-11-21,100,Hotel Cristi Bijali Nagar,Bijli Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+1,1,UF-307,Amol ,A ,Ghune,1,90000000000,2016-11-21,100,Hotel Cristi Bijali Nagar,Bijli Nagar,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-308,Amol ,A ,Ghune,1,90000000000,2016-11-21,100,Morewasti Chikhali,Morewasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-309,Mahendra,,Sapkal,1,7744048926,2016-11-25,100,Newale Wasti,Newale Wasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
+3,1,UF-310,Rinka ,,Shaikh,1,7040594749,2016-11-25,100,Newale Wasti,Newale Wasti,1,NULL,,,NULL,NULL,NULL,NULL,NULL,NULL
